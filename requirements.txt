@@ -3,3 +3,5 @@ requests
 pycryptodome
 protobuf
 mangum
+gunicorn
+flask-lambda
