@@ -1,7 +1,7 @@
-Flask
-requests
-pycryptodome
-protobuf
-mangum
-gunicorn
-flask-lambda
+Flask==3.0.0
+requests==2.31.0
+pycryptodome==3.19.0
+protobuf==5.26.1
+mangum==0.17.0
+gunicorn==21.2.0
+flask-lambda==0.0.6
